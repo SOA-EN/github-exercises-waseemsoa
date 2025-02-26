@@ -1,0 +1,49 @@
+Use GitHub Desktop unless specifically instructed for these exercises*
+
+Exercise 0:
+Clone your Repo to your Local Machine
+
+Exercise 1:
+Create a Folder With your First Name
+
+Exercise 2:
+Create 1 TXT File which is empty
+Create 1 .XLSX (Excel) file which is empty 
+Store both files into main 
+
+Exercise 3:
+Modify your TXT File
+Then move it into your named folder
+
+Exercise 4:
+Modify Excel File then move it into your folder
+Delete the TXT File
+
+Exercise 5:
+Revert the Last Commit and restore your TXT File
+
+Exercise 6: 
+Make a change on the GitHub Online Repo e.g. rename a file.
+
+Exercise 7: 
+Use Fetch Origin and pull the latest change into your local repo 
+
+Exercise 8:
+Revert the Name change
+
+Exercise 9:
+Create a Branch from your latest commit and call it TEST
+
+Exercise 10:
+Switch to your TEST branch and rename any file 
+
+Exercise 11:
+Switch to your Main Branch and under Branch select Compare to Branch with the TEST branch to see changes.
+Then Click 'Create a Merge Commit' to bring that change into Main.
+
+Exercise 12:
+Delete the file on Main Branch
+Under Branch click Rebase and select TEST Branch	and then Rebase
+
+Exercise 13:
+Go on GitHub Online select TEST Branch and see if there is a pull request and approve the request.
